@@ -1,0 +1,41 @@
+:doctype: book
+:source-highlighter: coderay
+:listing-caption: Listing
+:pdf-page-size: A4
+:toc:
+:toc-placement: left
+:toclevels: 4
+:icons: font
+:sectnums:
+include::include/variablesvar.ad[] 
+++++
+<link rel="stylesheet"  href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/3.1.0/css/font-awesome.min.css">
+<link rel="stylesheet"  href="include/our.css">
+++++
+
+include::include/header.ad[]
+
+
+
+= {modulename} 1
+
+[.subtitlemodule]#Let's get started#
+
+All you need to know about installing your phone and setting up your development environment.
+
+
+Alles (op je computer) om aan de slag te kunnen gaan Installeren IDE, vm
+(OS) gebruiken.
+
+== {firsttitle}
+
+* OS
+** Linux
+** Mac
+** Windows
+
+* Virtual Machines
+
+* Connecting Your Phone
+
+* Forums you can find information

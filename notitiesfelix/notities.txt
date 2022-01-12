@@ -1,0 +1,13 @@
+run de documenten met
+
+asciidoctor index.adoc -a toc
+
+
+asciidoctor lesdeel1module1.adoc -a toc && asciidoctor lesdeel1module2.adoc -a toc && asciidoctor lesdeel1module3.adoc -a toc && asciidoctor lesdeel1module4.adoc -a toc && asciidoctor lesdeel1module5.adoc -a toc && asciidoctor lesdeel1module6.adoc -a toc && asciidoctor lesdeel1module7.adoc -a toc && asciidoctor lesdeel1module8.adoc -a toc && asciidoctor index.adoc
+
+referentie
+https://powerman.name/doc/asciidoc
+
+
+
+

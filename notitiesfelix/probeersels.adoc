@@ -1,0 +1,33 @@
+[qanda]
+What is the answer?::
+This is the answer.
+
+
+[big]#large# [red yellow-background big]
+Optional Title
+======
+*Sidebar* Block
+
+Use: sidebar notes :)
+======
+
+[source,html+php]
+----
+<p>
+<?php echo "Hello, World!"; ?>
+</p>
+----
+
+[source,java]
+----
+class Fred{
+    int daar = 4;
+    Fred(){
+        daar = 23;
+    }
+    void hier(String daar){
+        System.out.println("daar"+daar);
+    }
+
+}
+----

@@ -1,0 +1,26 @@
+:doctype: book
+:source-highlighter: coderay
+:listing-caption: Listing
+:pdf-page-size: A4
+:toc:
+:toc-placement: left
+:toclevels: 4
+:icons: font
+:sectnums:
+include::include/variablesvar.ad[] 
+++++
+<link rel="stylesheet"  href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/3.1.0/css/font-awesome.min.css">
+<link rel="stylesheet"  href="include/our.css">
+++++
+
+include::include/header.ad[]
+
+
+
+= {modulename} 8
+
+[.subtitlemodule]#Let's get started#
+
+Release en deploy in app store
+
+== {firsttitle}
