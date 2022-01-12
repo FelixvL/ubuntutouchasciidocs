@@ -14,13 +14,21 @@ include::include/variablesvar.ad[]
 ++++
 
 include::include/header.ad[]
-
+link:trainingpart1module2.html[Previous {modulename}] - link:trainingpart1module4.html[Next {modulename}]
 
 
 = {modulename} 3
 
-[.subtitlemodule]#Let's get started#
+[.titlemodule]#{module3Title}# +
+[.subtitlemodule]#{module3Subtitle}#
 
-Vormgeving indeling Qml (Sander)
+
 
 == {firsttitle}
+
+
+== {writersnotes}
+
+----
+Vormgeving indeling Qml (Sander)
+----

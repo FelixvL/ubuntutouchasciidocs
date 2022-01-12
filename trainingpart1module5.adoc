@@ -14,14 +14,22 @@ include::include/variablesvar.ad[]
 ++++
 
 include::include/header.ad[]
-
+link:trainingpart1module4.html[Previous {modulename}] - link:trainingpart1module6.html[Next {modulename}]
 
 
 = {modulename} 5
 
-[.subtitlemodule]#Let's get started#
+[.titlemodule]#{module5Title}# +
+[.subtitlemodule]#{module5Subtitle}#
 
-Functionaliteit  Programmeren
-if - for - while - return, argumenten
+
 
 == {firsttitle}
+
+
+== {writersnotes}
+
+----
+Functionaliteit  Programmeren
+if - for - while - return, argumenten
+----

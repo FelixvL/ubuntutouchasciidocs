@@ -14,13 +14,22 @@ include::include/variablesvar.ad[]
 ++++
 
 include::include/header.ad[]
+link:trainingpart1module1.html[Previous {modulename}] - link:trainingpart1module3.html[Next {modulename}]
 
 
+= {modulename} 2
 
-= {modulename} 7
+[.titlemodule]#{module2Title}# +
+[.subtitlemodule]#{module2Subtitle}#
 
-[.subtitlemodule]#Let's get started#
 
-Python toepassen om viahet web te connecten met de buiten wereld
 
 == {firsttitle}
+
+
+== {writersnotes}
+
+----
+Starten ontwikkelen van je eigen applicatie
+Clickable leren gebruiken
+----

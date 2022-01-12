@@ -14,14 +14,19 @@ include::include/variablesvar.ad[]
 ++++
 
 include::include/header.ad[]
+link:trainingpart1module3.html[Previous {modulename}] - link:trainingpart1module5.html[Next {modulename}]
 
 
+= {modulename} 4
 
-= {modulename} 2
+[.titlemodule]#{module4Title}# +
+[.subtitlemodule]#{module4Subtitle}#
 
-[.subtitlemodule]#Let's get started#
-
-Starten ontwikkelen van je eigen applicatie
-Clickable leren gebruiken
 
 == {firsttitle}
+
+
+== {writersnotes}
+
+----
+----

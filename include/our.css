@@ -1,7 +1,13 @@
 
-.subtitlemodule {
+.titlemodule {
     font-size: 2em;
     color:darkred;
     padding-left: 2em;
+    font-style: italic;
+}
+.subtitlemodule {
+    font-size: 1.5em;
+    color:darkred;
+    padding-left: 3em;
     font-style: italic;
 }

@@ -14,13 +14,21 @@ include::include/variablesvar.ad[]
 ++++
 
 include::include/header.ad[]
+link:trainingpart1module5.html[Previous {modulename}] - link:trainingpart1module7.html[Next {modulename}]
 
 
+= {modulename} 6
 
-= {modulename} 8
+[.titlemodule]#{module6Title}# +
+[.subtitlemodule]#{module6Subtitle}#
 
-[.subtitlemodule]#Let's get started#
 
-Release en deploy in app store
 
 == {firsttitle}
+
+
+== {writersnotes}
+
+----
+Python toepassen om viahet web te connecten met de buiten wereld
+----

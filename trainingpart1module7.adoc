@@ -14,15 +14,23 @@ include::include/variablesvar.ad[]
 ++++
 
 include::include/header.ad[]
-
+link:trainingpart1module6.html[Previous {modulename}] - link:trainingpart1module8.html[Next {modulename}]
 
 
 = {modulename} 7
 
-[.subtitlemodule]#Let's get started#
+[.titlemodule]#{module7Title}# +
+[.subtitlemodule]#{module7Subtitle}#
 
+
+
+== {firsttitle}
+
+
+== {writersnotes}
+
+----
 Community (code afspraken - documentatie - hulp vragen - evenementen -
 release)
 (commercial/ promotie)
-
-== {firsttitle}
+----

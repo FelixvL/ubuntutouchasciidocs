@@ -1,20 +1,21 @@
-= Welcome to Ubuntu Touch, 
+include::include/variablesvar.ad[] 
+= Welcome to Ubuntu Touch, Training Part 1
 
 == An intro to mobile app devopment
 
-link:lesdeel1module1.html[MODULE 1]
+link:trainingpart1module1.html[MODULE 1 ( {module1Title}, {module1Subtitle} )]
 
-link:lesdeel1module2.html[MODULE 2]
+link:trainingpart1module2.html[MODULE 2 ( {module2Title}, {module2Subtitle} )]
 
-link:lesdeel1module3.html[MODULE 3]
+link:trainingpart1module3.html[MODULE 3 ( {module3Title}, {module3Subtitle} )]
 
-link:lesdeel1module4.html[MODULE 4]
+link:trainingpart1module4.html[MODULE 4 ( {module4Title}, {module4Subtitle} )]
 
-link:lesdeel1module5.html[MODULE 5]
+link:trainingpart1module5.html[MODULE 5 ( {module5Title}, {module5Subtitle} )]
 
-link:lesdeel1module6.html[MODULE 6]
+link:trainingpart1module6.html[MODULE 6 ( {module6Title}, {module6Subtitle} )]
 
-link:lesdeel1module7.html[MODULE 7]
+link:trainingpart1module7.html[MODULE 7 ( {module7Title}, {module7Subtitle} )]
 
-link:lesdeel1module8.html[MODULE 8]
+link:trainingpart1module8.html[MODULE 8 ( {module8Title}, {module8Subtitle} )]
 

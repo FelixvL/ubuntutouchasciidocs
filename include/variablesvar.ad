@@ -1,6 +1,23 @@
 
 :indexpage : Index Page
 :modulename : Module
-:firsttitle : intro
+:firsttitle : Intro
+:writersnotes : In het Nederlands Notities over deze pagina 
 
 
+:module1Title : Getting Phone installed
+:module1Subtitle : and Development Computer up and running
+:module2Title : IDE Clickable 
+:module2Subtitle : and starting a project 
+:module3Title : QML 
+:module3Subtitle : Views and all Design Aspects of an UT App
+:module4Title : Events & Functions
+:module4Subtitle : and kickstart the interactivity
+:module5Title : Programming Basics
+:module5Subtitle : and understand Making Software
+:module6Title : Using Python 
+:module6Subtitle : and opening up to more Advanced Features
+:module7Title : Community 
+:module7Subtitle : Documentation and Events
+:module8Title : Release & Deploy 
+:module8Subtitle : Appstore and Maintenance

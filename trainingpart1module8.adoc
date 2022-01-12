@@ -14,12 +14,21 @@ include::include/variablesvar.ad[]
 ++++
 
 include::include/header.ad[]
+link:trainingpart1module7.html[Previous {modulename}]
 
 
+= {modulename} 8
 
-= {modulename} 4
+[.titlemodule]#{module8Title}# +
+[.subtitlemodule]#{module8Subtitle}#
 
-[.subtitlemodule]#Let's get started#
 
 
 == {firsttitle}
+
+
+== {writersnotes}
+
+----
+Release en deploy in app store
+----

@@ -14,18 +14,15 @@ include::include/variablesvar.ad[]
 ++++
 
 include::include/header.ad[]
-
+link:trainingpart1module2.html[Next {modulename}]
 
 
 = {modulename} 1
 
-[.subtitlemodule]#Let's get started#
+[.titlemodule]#{module1Title}# +
+[.subtitlemodule]#{module1Subtitle}#
 
 All you need to know about installing your phone and setting up your development environment.
-
-
-Alles (op je computer) om aan de slag te kunnen gaan Installeren IDE, vm
-(OS) gebruiken.
 
 == {firsttitle}
 
@@ -37,5 +34,13 @@ Alles (op je computer) om aan de slag te kunnen gaan Installeren IDE, vm
 * Virtual Machines
 
 * Connecting Your Phone
+** New Phones vs Reinstall on Android Phone
+** Borrowing Phones for 
 
 * Forums you can find information
+** Telegram-Groups
+
+== {writersnotes}
+
+----
+----
